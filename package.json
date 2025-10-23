@@ -1,0 +1,27 @@
+{
+  "name": "jenkins",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000k\u0000u\u0000b\u0000e\u0000r\u0000n\u0000e\u0000t\u0000e\u0000s\u0000-\u0000c\u0000l\u0000u\u0000s\u0000t\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch index.js",
+    "start": "node index.js",
+    "deploy": "sh ./deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gidbless01/jenkins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/gidbless01/jenkins/issues"
+  },
+  "homepage": "https://github.com/gidbless01/jenkins#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
